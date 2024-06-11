@@ -1,0 +1,17 @@
+{
+  "name": "deploybackendapp",
+  "version": "1.0.0",
+  "description": "A basic App to deply",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Saksham Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
